@@ -1,1 +1,2 @@
 # mychain
+blockchain learning
